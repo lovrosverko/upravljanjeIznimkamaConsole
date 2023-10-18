@@ -1,0 +1,7 @@
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\bin\Debug\upravljanjeGreskama.exe.config
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\bin\Debug\upravljanjeGreskama.exe
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\bin\Debug\upravljanjeGreskama.pdb
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\obj\Debug\upravljanjeGreskama.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\obj\Debug\upravljanjeGreskama.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\obj\Debug\upravljanjeGreskama.exe
+C:\Users\Lovro\source\repos\upravljanjeGreskama\upravljanjeGreskama\obj\Debug\upravljanjeGreskama.pdb
